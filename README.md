@@ -1,4 +1,4 @@
-### Hi👋, I'm Victor
+<h1 style={ font-size: '20px' } >Hi👋, I'm Victor</h1>
 
 
 I'm a passionate Front-end developer in Lagos, Nigeria.
