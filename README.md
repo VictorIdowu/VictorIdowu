@@ -1,4 +1,4 @@
-<h1 style={ font-size: '20px' } >Hi👋, I'm Victor</h1>
+<h1 style={ font-size: '20px' } align='center' >Hi👋, I'm Victor</h1>
 
 
 I'm a passionate Front-end developer in Lagos, Nigeria.
